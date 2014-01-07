@@ -1,0 +1,17 @@
+{
+	"packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"HTMLAttributes",
+		"Jade Snippets",
+		"Jade",
+		"Package Control",
+		"Pretty JSON",
+		"Theme - Soda",
+		"TrailingSpaces"
+	],
+	"time": 1389124045
+}

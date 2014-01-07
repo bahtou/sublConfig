@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"DeleteBlankLines",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"HTMLAttributes",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript & NodeJS Snippets",
+		"MarkdownEditing",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"StringUtilities",
+		"sublimelint",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,2836 @@
+{
+	"folder_history":
+	[
+		"/home/robato/Documents/webDev/circle/consumer-web",
+		"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1",
+		"/home/robato/Documents/webDev/sass",
+		"/home/robato/Documents/webDev/spa",
+		"/home/robato/Documents/learningNodeJS/node-news-is-good-news",
+		"/home/robato/Documents/SIB/LearningNodejs/beginners/Account",
+		"/home/robato/Documents/webDev/myharp",
+		"/home/robato/Documents/webDev/myharpexpress",
+		"/home/robato/Documents/courses/10gen/mongodbNodjs/week3/hw3/hw3-2and3-3",
+		"/home/robato/Documents/courses/10gen/mongodbNodjs/week3",
+		"/home/robato/Documents/webDev/APESYSTEM/BetaSpring",
+		"/home/robato/Documents/webDev/scryptkiddy"
+	],
+	"last_version": 3059,
+	"last_window_id": 49,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 254.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robato/Documents/webDev/backboneJS/socialNetwork/socialNet/models/Account.js",
+				"/home/robato/Documents/webDev/backboneJS/socialNetwork/socialNet/app.js",
+				"/home/robato/Documents/webDev/scryptkiddy/package.json",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/body-head-title.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/first-test.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/view-source.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/example.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/jquery-1.7.1.min.js",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/login.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/mixins.less",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/teststyle.less",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/teststyle.css",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/animate-custom.css",
+				"/home/robato/Documents/SIB/libboo/Chart.js-master/.gitignore",
+				"/home/robato/Documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/jquery-1.7.1.min.js",
+				"/media/oldComp/ramRod/documents/webDev/CURATIVITY/curaChris/mockCurativity/index.html",
+				"/media/oldComp/ramRod/documents/webDev/SIB/libboo/Chart.js-master/.gitignore",
+				"/media/oldComp/ramRod/documents/webDev/SIB/libboo/Chart.js-master/Chart.js",
+				"/home/robato/Documents/SIB/libboo/Chart.js-master/docs/Chart.js",
+				"/media/oldComp/ramRod/documents/webDev/CURATIVITY/curaChris/curativity_foundation/index.html",
+				"/home/robato/Documents/webDev/CURATIVITY/curaChris/curativity_foundation/index.html"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dbpath"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"des",
+						"dest_name"
+					],
+					[
+						"list",
+						"listchange_idto"
+					],
+					[
+						"person",
+						"person_id"
+					],
+					[
+						"_pu",
+						"_publish_updatechat"
+					],
+					[
+						"listchan",
+						"listchange_idto"
+					],
+					[
+						"call",
+						"callback_map"
+					],
+					[
+						"_lea",
+						"_leave_chat"
+					],
+					[
+						"fa",
+						"fake"
+					],
+					[
+						"emit",
+						"emit_sio"
+					],
+					[
+						"cal",
+						"callback_map"
+					],
+					[
+						"complete",
+						"completeLogin"
+					],
+					[
+						"peop",
+						"people_db"
+					],
+					[
+						"make",
+						"makeCid"
+					],
+					[
+						"ini",
+						"initModule"
+					],
+					[
+						"anon",
+						"anon_id"
+					],
+					[
+						"peopl",
+						"people_cid_map"
+					],
+					[
+						"people_",
+						"people_db"
+					],
+					[
+						"get",
+						"getComputedStyle"
+					],
+					[
+						"rege",
+						"regex"
+					],
+					[
+						"encode",
+						"encodeHtml"
+					],
+					[
+						"resize_",
+						"resize_interval"
+					],
+					[
+						"slider_open",
+						"slider_opened_em"
+					],
+					[
+						"window_height",
+						"window_height_em"
+					],
+					[
+						"append",
+						"append_target"
+					],
+					[
+						"handle",
+						"handleResize"
+					],
+					[
+						"anchor",
+						"anchor_map_proposed"
+					],
+					[
+						"jquery",
+						"jqueryMap"
+					],
+					[
+						"ap",
+						"append_target"
+					],
+					[
+						"on",
+						"onClickToggle"
+					],
+					[
+						"config",
+						"configMap"
+					],
+					[
+						"slider",
+						"slider_open_time"
+					],
+					[
+						"slider_opened_",
+						"slider_opened_px"
+					],
+					[
+						"heigh",
+						"height_px"
+					],
+					[
+						"position",
+						"position_type"
+					],
+					[
+						"opened",
+						"opened_height_em"
+					],
+					[
+						"people",
+						"people_model"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"key",
+						"key_name"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"ancho",
+						"anchor_map_previous"
+					],
+					[
+						"anch",
+						"anchor_schema_map"
+					],
+					[
+						"confi",
+						"configMap"
+					],
+					[
+						"anchor_map",
+						"anchor_map_proposed"
+					],
+					[
+						"anchor_map_",
+						"anchor_map_proposed"
+					],
+					[
+						"_s_",
+						"_s_chat_proposed"
+					],
+					[
+						"_chat_",
+						"_s_chat_previous"
+					],
+					[
+						"anchor_",
+						"anchor_map_proposed"
+					],
+					[
+						"state",
+						"stateMap"
+					],
+					[
+						"set",
+						"setAnchor"
+					],
+					[
+						"key_name",
+						"key_name_dep"
+					],
+					[
+						"key_nam",
+						"key_name_dep"
+					],
+					[
+						"change",
+						"changeAnchorPart"
+					],
+					[
+						"copy",
+						"copyAnchorMap"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"chat",
+						"chat_retracted_title"
+					],
+					[
+						"chat_retr",
+						"chat_retracted_title"
+					],
+					[
+						"jquer",
+						"jqueryMap"
+					],
+					[
+						"chat_exten",
+						"chat_extended_title"
+					],
+					[
+						"toggle",
+						"toggleChat"
+					],
+					[
+						"chat_",
+						"chat_extend_height"
+					],
+					[
+						"ch",
+						"chat_extend_height"
+					],
+					[
+						"spa",
+						"spa-shell-modal"
+					],
+					[
+						"spa-shell",
+						"spa-shell-chat"
+					],
+					[
+						"spa-shell-main",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-shell-ma",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-she",
+						"spa-shell-main"
+					],
+					[
+						"spa-shell-head",
+						"spa-shell-head-acct"
+					],
+					[
+						"spa-shel",
+						"spa-shell-head-logo"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"check",
+						"checkAccount"
+					],
+					[
+						"maxmem",
+						"maxmemfrac"
+					],
+					[
+						"Accoun",
+						"AccountSchema"
+					],
+					[
+						"sign",
+						"signupEvts"
+					],
+					[
+						"log",
+						"loginEvts"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/robato/Documents/webDev/spa/spa_6/client/js/spa.model.js",
+					"settings":
+					{
+						"buffer_size": 12415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/robato/Documents/webDev/spa/spa_6/client/js/spa.fake.js",
+					"settings":
+					{
+						"buffer_size": 3537,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/robato/Documents/webDev/spa/spa_6/app.js",
+					"settings":
+					{
+						"buffer_size": 857,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 79.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"disc",
+						"Package Control: Discover Packages"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 527.0
+			},
+			"console":
+			{
+				"height": 452.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.model.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/css/spa.shell.css",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.fake.js",
+				"/media/12E4-4674/OFFER/NDA.html",
+				"/home/robato/Documents/webDev/spa/spa_5/app.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/people_object.js",
+				"/home/robato/Documents/webDev/spa/spa_3/package.json",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_3/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_3/node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api-pipe.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/imgs/.gitkeep",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.util_b.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.avtr.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.data.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.gevent-0.1.10.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/taffydb-2.7.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.ue-0.3.3.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/css/spa.avtr.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.chat.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.util.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_4/views/spa.jade",
+				"/home/robato/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.shell.css",
+				"/home/robato/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robato/Documents/webDev/spa/spa_4/.gitignore",
+				"/home/robato/Documents/webDev/spa/spa_4/README.md",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.model.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/routes/index.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/app.js",
+				"/home/robato/Documents/webDev/spa/client/css/spa.shell.css",
+				"/home/robato/Documents/webDev/spa/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/views/layout.jade",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/Packages/Default.sublime-package",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+				"/home/robato/Documents/webDev/spa/client/js/jquery.js",
+				"/usr/local/lib/node_modules/express/bin/express",
+				"/home/robato/Documents/webDev/todayishare/views/spa.jade",
+				"/etc/resolv.conf",
+				"/etc/resolvconf/resolv.conf.d/base",
+				"/etc/resolvconf/resolv.conf.d/head",
+				"/home/robato/Documents/webDev/scryptkiddy/PVL.txt",
+				"/home/robato/Documents/webDev/todayishare/security/login.js",
+				"/home/robato/Documents/webDev/todayishare/models/accounts.js",
+				"/home/robato/Documents/webDev/todayishare/security/validation.js",
+				"/home/robato/Documents/webDev/todayishare/public/js/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/views/layout.jade",
+				"/home/robato/Documents/webDev/todayishare/errors/signup.js",
+				"/home/robato/Documents/webDev/todayishare/security/index.js",
+				"/home/robato/Documents/webDev/todayishare/security/errors.js",
+				"/home/robato/Documents/webDev/todayishare/views/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/signup.jade",
+				"/home/robato/Documents/webDev/todayishare/public/styles/signup.css",
+				"/home/robato/Documents/webDev/todayishare/public/styles/login.css",
+				"/home/robato/Documents/webDev/todayishare/models/index.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbDevelopers/nodeJS/addTo.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week3/hw3-2and3-3/validate/hw3-3_validate.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week1/lesson_examples/async_vs_sync/app.js",
+				"/home/robato/Documents/webDev/todayishare/models/users.js",
+				"/home/robato/Documents/webDev/todayishare/package.json",
+				"/home/robato/Documents/webDev/todayishare/operations/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/security/loginAuth.js",
+				"/home/robato/Documents/webDev/todayishare/errors/events.js",
+				"/home/robato/Documents/webDev/todayishare/operations/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/home.js",
+				"/home/robato/Documents/webDev/todayishare/operations/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/events/index.js",
+				"/home/robato/pdfextr",
+				"/home/robato/.bashrc",
+				"/home/robato/bashrc",
+				"/home/robato/Documents/webDev/todayishare/events/home.js",
+				"/home/robato/Documents/webDev/todayishare/views/home.jade",
+				"/home/robato/Documents/webDev/todayishare/views/admin/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/mixins/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/footer.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/header.jade",
+				"/home/robato/Documents/webDev/todayishare/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/models/blogs.js",
+				"/home/robato/Documents/webDev/todayishare/routes/index.js",
+				"/home/robato/Documents/webDev/todayishare/errors/login.js",
+				"/home/robato/Documents/webDev/todayishare/errors/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/signup.js"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"spa-login",
+					"adduser",
+					"userupdate",
+					"completeLogin",
+					"spa-login",
+					"clearPeopleDb",
+					"emot",
+					"setJqueryMap",
+					"setPxSizes",
+					"getEmSize",
+					"update",
+					"update_",
+					"configMap",
+					"chat_extend_time",
+					"getComputedStyle",
+					"spa.model.chat",
+					"setChatAnchor",
+					"setChat",
+					"stateMap",
+					"toggle.prop",
+					"getComputedStyle",
+					"spa-shell-chat",
+					"anchor_map_previous",
+					"onHashChange",
+					"onHasChange",
+					"null",
+					"ignore",
+					"decor",
+					"dec",
+					"decoration",
+					"ctrl+enter",
+					"ctrl+",
+					"update",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"onHashchange",
+					"onHashChange"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/robato/Documents/webDev/spa"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/robato/Documents/webDev/spa/spa_6/client/js/spa.model.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8203,
+										8203
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3362.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/robato/Documents/webDev/spa/spa_6/client/js/spa.fake.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3537,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3141,
+										3141
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1536.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/robato/Documents/webDev/spa/spa_6/app.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 857,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,65,24,752,872,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"peopl",
+						"spa_5/client/js/people_object.js"
+					],
+					[
+						"spa.js",
+						"spa_3/client/js/spa.js"
+					],
+					[
+						"",
+						"spa_3/client/imgs/.gitkeep"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 41,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"emit",
+						"emit_sio"
+					],
+					[
+						"cal",
+						"callback_map"
+					],
+					[
+						"complete",
+						"completeLogin"
+					],
+					[
+						"peop",
+						"people_db"
+					],
+					[
+						"make",
+						"makeCid"
+					],
+					[
+						"ini",
+						"initModule"
+					],
+					[
+						"anon",
+						"anon_id"
+					],
+					[
+						"peopl",
+						"people_cid_map"
+					],
+					[
+						"people_",
+						"people_db"
+					],
+					[
+						"get",
+						"getComputedStyle"
+					],
+					[
+						"rege",
+						"regex"
+					],
+					[
+						"encode",
+						"encodeHtml"
+					],
+					[
+						"resize_",
+						"resize_interval"
+					],
+					[
+						"slider_open",
+						"slider_opened_em"
+					],
+					[
+						"window_height",
+						"window_height_em"
+					],
+					[
+						"append",
+						"append_target"
+					],
+					[
+						"handle",
+						"handleResize"
+					],
+					[
+						"anchor",
+						"anchor_map_proposed"
+					],
+					[
+						"jquery",
+						"jqueryMap"
+					],
+					[
+						"ap",
+						"append_target"
+					],
+					[
+						"on",
+						"onClickToggle"
+					],
+					[
+						"config",
+						"configMap"
+					],
+					[
+						"slider",
+						"slider_open_time"
+					],
+					[
+						"slider_opened_",
+						"slider_opened_px"
+					],
+					[
+						"heigh",
+						"height_px"
+					],
+					[
+						"position",
+						"position_type"
+					],
+					[
+						"opened",
+						"opened_height_em"
+					],
+					[
+						"people",
+						"people_model"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"key",
+						"key_name"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"ancho",
+						"anchor_map_previous"
+					],
+					[
+						"anch",
+						"anchor_schema_map"
+					],
+					[
+						"confi",
+						"configMap"
+					],
+					[
+						"anchor_map",
+						"anchor_map_proposed"
+					],
+					[
+						"anchor_map_",
+						"anchor_map_proposed"
+					],
+					[
+						"_s_",
+						"_s_chat_proposed"
+					],
+					[
+						"_chat_",
+						"_s_chat_previous"
+					],
+					[
+						"anchor_",
+						"anchor_map_proposed"
+					],
+					[
+						"state",
+						"stateMap"
+					],
+					[
+						"set",
+						"setAnchor"
+					],
+					[
+						"key_name",
+						"key_name_dep"
+					],
+					[
+						"key_nam",
+						"key_name_dep"
+					],
+					[
+						"change",
+						"changeAnchorPart"
+					],
+					[
+						"copy",
+						"copyAnchorMap"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"chat",
+						"chat_retracted_title"
+					],
+					[
+						"chat_retr",
+						"chat_retracted_title"
+					],
+					[
+						"jquer",
+						"jqueryMap"
+					],
+					[
+						"chat_exten",
+						"chat_extended_title"
+					],
+					[
+						"toggle",
+						"toggleChat"
+					],
+					[
+						"chat_",
+						"chat_extend_height"
+					],
+					[
+						"ch",
+						"chat_extend_height"
+					],
+					[
+						"spa",
+						"spa-shell-modal"
+					],
+					[
+						"spa-shell",
+						"spa-shell-chat"
+					],
+					[
+						"spa-shell-main",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-shell-ma",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-she",
+						"spa-shell-main"
+					],
+					[
+						"spa-shell-head",
+						"spa-shell-head-acct"
+					],
+					[
+						"spa-shel",
+						"spa-shell-head-logo"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"check",
+						"checkAccount"
+					],
+					[
+						"maxmem",
+						"maxmemfrac"
+					],
+					[
+						"Accoun",
+						"AccountSchema"
+					],
+					[
+						"sign",
+						"signupEvts"
+					],
+					[
+						"log",
+						"loginEvts"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/css/tis.shell.css",
+					"settings":
+					{
+						"buffer_size": 1524,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/routes/index.js",
+					"settings":
+					{
+						"buffer_size": 127,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 79.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"disc",
+						"Package Control: Discover Packages"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 527.0
+			},
+			"console":
+			{
+				"height": 452.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/lib/IndexedDBShim - v0.1.2.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/tis.shell.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/views/layout.jade",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/app.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/routes/index.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/css/tis.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/tis.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/views/tis.jade",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/package.json",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/jq/jquery.uriAnchor-1.1.3.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/js/jq/fastclick.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/css/foundation.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/css/spa.shell.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/js/jquery.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/people_object.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.fake.js",
+				"/home/robato/Documents/webDev/spa/spa_3/package.json",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_3/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_3/node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api-pipe.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/imgs/.gitkeep",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.util_b.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.avtr.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.data.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.gevent-0.1.10.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/taffydb-2.7.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.ue-0.3.3.js",
+				"/home/robato/Documents/webDev/spa/spa_5/app.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/css/spa.avtr.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.chat.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.util.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_4/views/spa.jade",
+				"/home/robato/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.shell.css",
+				"/home/robato/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robato/Documents/webDev/spa/spa_4/.gitignore",
+				"/home/robato/Documents/webDev/spa/spa_4/README.md",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.model.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/routes/index.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/app.js",
+				"/home/robato/Documents/webDev/spa/client/css/spa.shell.css",
+				"/home/robato/Documents/webDev/spa/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/views/layout.jade",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/Packages/Default.sublime-package",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+				"/home/robato/Documents/webDev/spa/client/js/jquery.js",
+				"/usr/local/lib/node_modules/express/bin/express",
+				"/home/robato/Documents/webDev/todayishare/views/spa.jade",
+				"/etc/resolv.conf",
+				"/etc/resolvconf/resolv.conf.d/base",
+				"/etc/resolvconf/resolv.conf.d/head",
+				"/home/robato/Documents/webDev/scryptkiddy/PVL.txt",
+				"/home/robato/Documents/webDev/todayishare/security/login.js",
+				"/home/robato/Documents/webDev/todayishare/models/accounts.js",
+				"/home/robato/Documents/webDev/todayishare/security/validation.js",
+				"/home/robato/Documents/webDev/todayishare/public/js/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/views/layout.jade",
+				"/home/robato/Documents/webDev/todayishare/errors/signup.js",
+				"/home/robato/Documents/webDev/todayishare/security/index.js",
+				"/home/robato/Documents/webDev/todayishare/security/errors.js",
+				"/home/robato/Documents/webDev/todayishare/views/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/signup.jade",
+				"/home/robato/Documents/webDev/todayishare/public/styles/signup.css",
+				"/home/robato/Documents/webDev/todayishare/public/styles/login.css",
+				"/home/robato/Documents/webDev/todayishare/models/index.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbDevelopers/nodeJS/addTo.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week3/hw3-2and3-3/validate/hw3-3_validate.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week1/lesson_examples/async_vs_sync/app.js",
+				"/home/robato/Documents/webDev/todayishare/models/users.js",
+				"/home/robato/Documents/webDev/todayishare/package.json",
+				"/home/robato/Documents/webDev/todayishare/operations/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/security/loginAuth.js",
+				"/home/robato/Documents/webDev/todayishare/errors/events.js",
+				"/home/robato/Documents/webDev/todayishare/operations/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/home.js",
+				"/home/robato/Documents/webDev/todayishare/operations/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/events/index.js",
+				"/home/robato/pdfextr",
+				"/home/robato/.bashrc",
+				"/home/robato/bashrc",
+				"/home/robato/Documents/webDev/todayishare/events/home.js",
+				"/home/robato/Documents/webDev/todayishare/views/home.jade",
+				"/home/robato/Documents/webDev/todayishare/views/admin/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/mixins/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/footer.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/header.jade",
+				"/home/robato/Documents/webDev/todayishare/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/models/blogs.js",
+				"/home/robato/Documents/webDev/todayishare/routes/index.js",
+				"/home/robato/Documents/webDev/todayishare/errors/login.js",
+				"/home/robato/Documents/webDev/todayishare/errors/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/signup.js"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"spa",
+					"tis",
+					"spa",
+					"border-sizing",
+					"spa",
+					"spa-login",
+					"clearPeopleDb",
+					"emot",
+					"setJqueryMap",
+					"setPxSizes",
+					"getEmSize",
+					"update",
+					"update_",
+					"configMap",
+					"chat_extend_time",
+					"getComputedStyle",
+					"spa.model.chat",
+					"setChatAnchor",
+					"setChat",
+					"stateMap",
+					"toggle.prop",
+					"getComputedStyle",
+					"spa-shell-chat",
+					"anchor_map_previous",
+					"onHashChange",
+					"onHasChange",
+					"null",
+					"ignore",
+					"decor",
+					"dec",
+					"decoration",
+					"ctrl+enter",
+					"ctrl+",
+					"update",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"tis",
+					"onHashchange",
+					"onHashChange"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/robato/Documents/webDev/todayishare/tis_spa_v0.1"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/css/tis.shell.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1524,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										373,
+										373
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/routes/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 127,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										127,
+										127
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,751,24,1438,872,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"peopl",
+						"spa_5/client/js/people_object.js"
+					],
+					[
+						"spa.js",
+						"spa_3/client/js/spa.js"
+					],
+					[
+						"",
+						"spa_3/client/imgs/.gitkeep"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 47,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 56.0,
+				"selected_items":
+				[
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 579.0
+			},
+			"console":
+			{
+				"height": 254.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robato/Documents/webDev/backboneJS/socialNetwork/socialNet/models/Account.js",
+				"/home/robato/Documents/webDev/backboneJS/socialNetwork/socialNet/app.js",
+				"/home/robato/Documents/webDev/scryptkiddy/package.json",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/body-head-title.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/first-test.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/view-source.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/HTML And CSS - Design And Build Websites/html-and-css-code-samples/Final Code/chapter-01/example.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/jquery-1.7.1.min.js",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/login.html",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/mixins.less",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/teststyle.less",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/teststyle.css",
+				"/media/oldComp/ramRod/documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/animate-custom.css",
+				"/home/robato/Documents/SIB/libboo/Chart.js-master/.gitignore",
+				"/home/robato/Documents/biblio/Compute/Books/webDev/CSS/DesigningWithCSS3/Designing-With-CSS3/source-code/jquery-1.7.1.min.js",
+				"/media/oldComp/ramRod/documents/webDev/CURATIVITY/curaChris/mockCurativity/index.html",
+				"/media/oldComp/ramRod/documents/webDev/SIB/libboo/Chart.js-master/.gitignore",
+				"/media/oldComp/ramRod/documents/webDev/SIB/libboo/Chart.js-master/Chart.js",
+				"/home/robato/Documents/SIB/libboo/Chart.js-master/docs/Chart.js",
+				"/media/oldComp/ramRod/documents/webDev/CURATIVITY/curaChris/curativity_foundation/index.html",
+				"/home/robato/Documents/webDev/CURATIVITY/curaChris/curativity_foundation/index.html"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"dbpath"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/robato/Documents/webDev/backboneJS"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,65,24,752,872,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 223.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"emit",
+						"emit_sio"
+					],
+					[
+						"cal",
+						"callback_map"
+					],
+					[
+						"complete",
+						"completeLogin"
+					],
+					[
+						"peop",
+						"people_db"
+					],
+					[
+						"make",
+						"makeCid"
+					],
+					[
+						"ini",
+						"initModule"
+					],
+					[
+						"anon",
+						"anon_id"
+					],
+					[
+						"peopl",
+						"people_cid_map"
+					],
+					[
+						"people_",
+						"people_db"
+					],
+					[
+						"get",
+						"getComputedStyle"
+					],
+					[
+						"rege",
+						"regex"
+					],
+					[
+						"encode",
+						"encodeHtml"
+					],
+					[
+						"resize_",
+						"resize_interval"
+					],
+					[
+						"slider_open",
+						"slider_opened_em"
+					],
+					[
+						"window_height",
+						"window_height_em"
+					],
+					[
+						"append",
+						"append_target"
+					],
+					[
+						"handle",
+						"handleResize"
+					],
+					[
+						"anchor",
+						"anchor_map_proposed"
+					],
+					[
+						"jquery",
+						"jqueryMap"
+					],
+					[
+						"ap",
+						"append_target"
+					],
+					[
+						"on",
+						"onClickToggle"
+					],
+					[
+						"config",
+						"configMap"
+					],
+					[
+						"slider",
+						"slider_open_time"
+					],
+					[
+						"slider_opened_",
+						"slider_opened_px"
+					],
+					[
+						"heigh",
+						"height_px"
+					],
+					[
+						"position",
+						"position_type"
+					],
+					[
+						"opened",
+						"opened_height_em"
+					],
+					[
+						"people",
+						"people_model"
+					],
+					[
+						"mar",
+						"margin-left"
+					],
+					[
+						"key",
+						"key_name"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"ancho",
+						"anchor_map_previous"
+					],
+					[
+						"anch",
+						"anchor_schema_map"
+					],
+					[
+						"confi",
+						"configMap"
+					],
+					[
+						"anchor_map",
+						"anchor_map_proposed"
+					],
+					[
+						"anchor_map_",
+						"anchor_map_proposed"
+					],
+					[
+						"_s_",
+						"_s_chat_proposed"
+					],
+					[
+						"_chat_",
+						"_s_chat_previous"
+					],
+					[
+						"anchor_",
+						"anchor_map_proposed"
+					],
+					[
+						"state",
+						"stateMap"
+					],
+					[
+						"set",
+						"setAnchor"
+					],
+					[
+						"key_name",
+						"key_name_dep"
+					],
+					[
+						"key_nam",
+						"key_name_dep"
+					],
+					[
+						"change",
+						"changeAnchorPart"
+					],
+					[
+						"copy",
+						"copyAnchorMap"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"chat",
+						"chat_retracted_title"
+					],
+					[
+						"chat_retr",
+						"chat_retracted_title"
+					],
+					[
+						"jquer",
+						"jqueryMap"
+					],
+					[
+						"chat_exten",
+						"chat_extended_title"
+					],
+					[
+						"toggle",
+						"toggleChat"
+					],
+					[
+						"chat_",
+						"chat_extend_height"
+					],
+					[
+						"ch",
+						"chat_extend_height"
+					],
+					[
+						"spa",
+						"spa-shell-modal"
+					],
+					[
+						"spa-shell",
+						"spa-shell-chat"
+					],
+					[
+						"spa-shell-main",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-shell-ma",
+						"spa-shell-main-content"
+					],
+					[
+						"spa-she",
+						"spa-shell-main"
+					],
+					[
+						"spa-shell-head",
+						"spa-shell-head-acct"
+					],
+					[
+						"spa-shel",
+						"spa-shell-head-logo"
+					],
+					[
+						"background",
+						"background-color"
+					],
+					[
+						"check",
+						"checkAccount"
+					],
+					[
+						"maxmem",
+						"maxmemfrac"
+					],
+					[
+						"Accoun",
+						"AccountSchema"
+					],
+					[
+						"sign",
+						"signupEvts"
+					],
+					[
+						"log",
+						"loginEvts"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "'use strict';\n\n// Load environment variables from a .env file\nvar dotenv = require('dotenv')();\ndotenv.load();\n\n/**\n * Module dependencies.\n */\n\nvar express = require('express');\nvar routes = require('./routes');\nvar middleware = require('./middleware');\nvar initializers = require('./initializers');\nvar helmet = require('helmet');\nvar app = express();\nvar config = require('./config');\nrequire('./lib/underscoreMixins');\n\n// all environments\napp.set('port', config.port);\napp.set('views', __dirname + '/views');\napp.set('view engine', 'ejs');\napp.set('processesToClose', 0); // This number increments with DB, http, etc.\napp.enable('trust proxy');\n\napp.use(middleware.ssl);\napp.use(express.json());\napp.use(express.urlencoded());\napp.use(helmet.xframe());\napp.use(helmet.iexss());\napp.use(helmet.contentTypeOptions());\napp.use(helmet.cacheControl());\napp.use(express.methodOverride());\napp.use(express.cookieParser(process.env.COOKIE_SECRET));\napp.use(express.favicon());\n\ninitializers.db(app);\ninitializers.i18n(app);\ninitializers.sessions(app);\n\nif (config.verbose) {\n  app.use(express.logger('dev'));\n}\n\ninitializers.assets(app);\napp.use(middleware.exchangeRate);\napp.use(middleware.Authentication.setAuthSession);\napp.use(app.router);\n\n// development only\nif ('development' === config.env) {\n  app.use(express.errorHandler());\n}\napp.get('i18n')\n  .registerAppHelper(app)\n  .serveDynamicResources(app)\n  .serveMissingKeyRoute(app);\n\nroutes(app);\n\nmodule.exports = app;\n",
+					"file": "/home/robato/Documents/webDev/circle/consumer-web/src/app.js",
+					"file_size": 1475,
+					"file_write_time": 130335003460081697,
+					"settings":
+					{
+						"buffer_size": 1474,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/robato/Documents/webDev/circle/consumer-web/package.json",
+					"settings":
+					{
+						"buffer_size": 1394,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 79.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"disc",
+						"Package Control: Discover Packages"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"packa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 527.0
+			},
+			"console":
+			{
+				"height": 452.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robato/Documents/webDev/circle/consumer-web/src/lib/assetPipeline.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/lib/IndexedDBShim - v0.1.2.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/tis.shell.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/views/layout.jade",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/app.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/routes/index.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/css/tis.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/tis.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/views/tis.jade",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/package.json",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/client/js/jq/jquery.uriAnchor-1.1.3.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/js/jq/fastclick.js",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/css/foundation.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/css/spa.shell.css",
+				"/home/robato/Documents/webDev/todayishare/tis_spa_v0.1/public/js/jquery.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/people_object.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.fake.js",
+				"/home/robato/Documents/webDev/spa/spa_3/package.json",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_3/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_3/node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/stream-api-pipe.js",
+				"/home/robato/Documents/webDev/spa/spa_3/client/imgs/.gitkeep",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.util_b.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.chat.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.avtr.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/spa.data.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.gevent-0.1.10.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/taffydb-2.7.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/js/jq/jquery.event.ue-0.3.3.js",
+				"/home/robato/Documents/webDev/spa/spa_5/app.js",
+				"/home/robato/Documents/webDev/spa/spa_5/client/css/spa.avtr.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.chat.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.util.js",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/spa_4/views/spa.jade",
+				"/home/robato/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/robato/Documents/webDev/spa/spa_4/client/css/spa.shell.css",
+				"/home/robato/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robato/Documents/webDev/spa/spa_4/.gitignore",
+				"/home/robato/Documents/webDev/spa/spa_4/README.md",
+				"/home/robato/Documents/webDev/spa/spa_4/client/js/spa.model.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.js",
+				"/home/robato/Documents/webDev/spa/views/spa.jade",
+				"/home/robato/Documents/webDev/spa/routes/index.js",
+				"/home/robato/Documents/webDev/spa/client/js/spa.shell.js",
+				"/home/robato/Documents/webDev/spa/app.js",
+				"/home/robato/Documents/webDev/spa/client/css/spa.shell.css",
+				"/home/robato/Documents/webDev/spa/client/css/spa.css",
+				"/home/robato/Documents/webDev/spa/views/layout.jade",
+				"/home/robato/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/opt/sublime_text/Packages/Default.sublime-package",
+				"/home/robato/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+				"/home/robato/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+				"/home/robato/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+				"/home/robato/Documents/webDev/spa/client/js/jquery.js",
+				"/usr/local/lib/node_modules/express/bin/express",
+				"/home/robato/Documents/webDev/todayishare/views/spa.jade",
+				"/etc/resolv.conf",
+				"/etc/resolvconf/resolv.conf.d/base",
+				"/etc/resolvconf/resolv.conf.d/head",
+				"/home/robato/Documents/webDev/scryptkiddy/PVL.txt",
+				"/home/robato/Documents/webDev/todayishare/security/login.js",
+				"/home/robato/Documents/webDev/todayishare/models/accounts.js",
+				"/home/robato/Documents/webDev/todayishare/security/validation.js",
+				"/home/robato/Documents/webDev/todayishare/public/js/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/views/layout.jade",
+				"/home/robato/Documents/webDev/todayishare/errors/signup.js",
+				"/home/robato/Documents/webDev/todayishare/security/index.js",
+				"/home/robato/Documents/webDev/todayishare/security/errors.js",
+				"/home/robato/Documents/webDev/todayishare/views/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/signup.jade",
+				"/home/robato/Documents/webDev/todayishare/public/styles/signup.css",
+				"/home/robato/Documents/webDev/todayishare/public/styles/login.css",
+				"/home/robato/Documents/webDev/todayishare/models/index.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbDevelopers/nodeJS/addTo.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week3/hw3-2and3-3/validate/hw3-3_validate.js",
+				"/media/oldComp/ramRod/documents/courses/10gen/mongodbNodjs/week1/lesson_examples/async_vs_sync/app.js",
+				"/home/robato/Documents/webDev/todayishare/models/users.js",
+				"/home/robato/Documents/webDev/todayishare/package.json",
+				"/home/robato/Documents/webDev/todayishare/operations/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/login.js",
+				"/home/robato/Documents/webDev/todayishare/events/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/security/loginAuth.js",
+				"/home/robato/Documents/webDev/todayishare/errors/events.js",
+				"/home/robato/Documents/webDev/todayishare/operations/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/home.js",
+				"/home/robato/Documents/webDev/todayishare/operations/admin/blog.js",
+				"/home/robato/Documents/webDev/todayishare/events/index.js",
+				"/home/robato/pdfextr",
+				"/home/robato/.bashrc",
+				"/home/robato/bashrc",
+				"/home/robato/Documents/webDev/todayishare/events/home.js",
+				"/home/robato/Documents/webDev/todayishare/views/home.jade",
+				"/home/robato/Documents/webDev/todayishare/views/admin/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/index.jade",
+				"/home/robato/Documents/webDev/todayishare/views/mixins/login.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/footer.jade",
+				"/home/robato/Documents/webDev/todayishare/views/partials/header.jade",
+				"/home/robato/Documents/webDev/todayishare/events/signup.js",
+				"/home/robato/Documents/webDev/todayishare/models/blogs.js",
+				"/home/robato/Documents/webDev/todayishare/routes/index.js",
+				"/home/robato/Documents/webDev/todayishare/errors/login.js",
+				"/home/robato/Documents/webDev/todayishare/errors/index.js",
+				"/home/robato/Documents/webDev/todayishare/operations/signup.js"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"spa",
+					"tis",
+					"spa",
+					"border-sizing",
+					"spa",
+					"spa-login",
+					"clearPeopleDb",
+					"emot",
+					"setJqueryMap",
+					"setPxSizes",
+					"getEmSize",
+					"update",
+					"update_",
+					"configMap",
+					"chat_extend_time",
+					"getComputedStyle",
+					"spa.model.chat",
+					"setChatAnchor",
+					"setChat",
+					"stateMap",
+					"toggle.prop",
+					"getComputedStyle",
+					"spa-shell-chat",
+					"anchor_map_previous",
+					"onHashChange",
+					"onHasChange",
+					"null",
+					"ignore",
+					"decor",
+					"dec",
+					"decoration",
+					"ctrl+enter",
+					"ctrl+",
+					"update",
+					";\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"tis",
+					"onHashchange",
+					"onHashChange"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/robato/Documents/webDev/circle/consumer-web"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/robato/Documents/webDev/circle/consumer-web/src/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1474,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1474,
+										1474
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 198.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/robato/Documents/webDev/circle/consumer-web/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1394,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										684,
+										684
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close"
+									],
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"peopl",
+						"spa_5/client/js/people_object.js"
+					],
+					[
+						"spa.js",
+						"spa_3/client/js/spa.js"
+					],
+					[
+						"",
+						"spa_3/client/imgs/.gitkeep"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 49,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
